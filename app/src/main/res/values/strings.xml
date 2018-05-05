@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TimerCounter</string>
+    <string name="swirch_timer">Swirch Timer</string>
 </resources>
